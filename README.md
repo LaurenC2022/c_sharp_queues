@@ -6,7 +6,6 @@
 |                |                |  remove()      |                |
 |                |                |  peek()        |                |
 |                |                |  isEmpty()     |                |
-|                |                |                |                |
 | Priority Queue | FIFO           |  add(item):    |    Abstract    |
 |                |                |  remove()      |                |
 |                |                |  peek()        |                |
