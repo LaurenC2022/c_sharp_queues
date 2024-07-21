@@ -11,3 +11,8 @@
 |                |                |  peek()        |                |
 |                |                |  isEmpty()     |                |
 |                |                |                |                |
+
+
+Deleting objects from memory. 
+
+Stack vs. heap variables 
